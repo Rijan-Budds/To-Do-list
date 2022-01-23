@@ -4,4 +4,4 @@ function todoList(){
     let newItem = document.createElement("li")
     newItem.appendChild(text)
     document.getElementById("todoList").appendChild(newItem)
-}
+}  
